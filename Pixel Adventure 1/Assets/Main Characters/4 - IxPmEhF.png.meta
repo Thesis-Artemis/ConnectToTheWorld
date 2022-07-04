@@ -1,0 +1,2534 @@
+fileFormatVersion: 2
+guid: efd4f090dcfb98f4793234508419a275
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9179243150667273352
+    second: 4 - IxPmEhF_0
+  - first:
+      213: -802905337538050599
+    second: 4 - IxPmEhF_1
+  - first:
+      213: -3362640807472815625
+    second: 4 - IxPmEhF_2
+  - first:
+      213: -6927298570192389321
+    second: 4 - IxPmEhF_3
+  - first:
+      213: -2640827306027488464
+    second: 4 - IxPmEhF_4
+  - first:
+      213: 4827523360677627971
+    second: 4 - IxPmEhF_5
+  - first:
+      213: -5849347490801288098
+    second: 4 - IxPmEhF_6
+  - first:
+      213: -1462517352155606068
+    second: 4 - IxPmEhF_7
+  - first:
+      213: -7600152744235986755
+    second: 4 - IxPmEhF_8
+  - first:
+      213: -3731446710235816885
+    second: 4 - IxPmEhF_9
+  - first:
+      213: 5220248581002647102
+    second: 4 - IxPmEhF_10
+  - first:
+      213: -6988428228865293665
+    second: 4 - IxPmEhF_11
+  - first:
+      213: 5805478149755176314
+    second: 4 - IxPmEhF_12
+  - first:
+      213: 580973578162247855
+    second: 4 - IxPmEhF_13
+  - first:
+      213: -1892771084434854490
+    second: 4 - IxPmEhF_14
+  - first:
+      213: -8527596029983661340
+    second: 4 - IxPmEhF_15
+  - first:
+      213: -2507839665514362123
+    second: 4 - IxPmEhF_16
+  - first:
+      213: -8041823705343568103
+    second: 4 - IxPmEhF_17
+  - first:
+      213: 821362024811981243
+    second: 4 - IxPmEhF_18
+  - first:
+      213: 7495040353049907228
+    second: 4 - IxPmEhF_19
+  - first:
+      213: -788852812409693118
+    second: 4 - IxPmEhF_20
+  - first:
+      213: -7207656648847517688
+    second: 4 - IxPmEhF_21
+  - first:
+      213: 5169461242525074140
+    second: 4 - IxPmEhF_22
+  - first:
+      213: -2886278319908971053
+    second: 4 - IxPmEhF_23
+  - first:
+      213: -3876901234790303106
+    second: 4 - IxPmEhF_24
+  - first:
+      213: 329100732621833966
+    second: 4 - IxPmEhF_25
+  - first:
+      213: 7376566740467993599
+    second: 4 - IxPmEhF_26
+  - first:
+      213: 6995984237210819402
+    second: 4 - IxPmEhF_27
+  - first:
+      213: 6909077272213962148
+    second: 4 - IxPmEhF_28
+  - first:
+      213: 500181711632657550
+    second: 4 - IxPmEhF_29
+  - first:
+      213: -6207481450220612033
+    second: 4 - IxPmEhF_30
+  - first:
+      213: 2345712934633943073
+    second: 4 - IxPmEhF_31
+  - first:
+      213: -7305297770811348865
+    second: 4 - IxPmEhF_32
+  - first:
+      213: 7104814118128469917
+    second: 4 - IxPmEhF_33
+  - first:
+      213: -5821046841968169362
+    second: 4 - IxPmEhF_34
+  - first:
+      213: -3873360620689022924
+    second: 4 - IxPmEhF_35
+  - first:
+      213: 8712687386256761280
+    second: 4 - IxPmEhF_36
+  - first:
+      213: 4047690375818371197
+    second: 4 - IxPmEhF_37
+  - first:
+      213: -9052130403267784299
+    second: 4 - IxPmEhF_38
+  - first:
+      213: -1336094656829252038
+    second: 4 - IxPmEhF_39
+  - first:
+      213: -7914723560308679985
+    second: 4 - IxPmEhF_40
+  - first:
+      213: -8178124846338617041
+    second: 4 - IxPmEhF_41
+  - first:
+      213: -6846468402619217925
+    second: 4 - IxPmEhF_42
+  - first:
+      213: 4607366751312001812
+    second: 4 - IxPmEhF_43
+  - first:
+      213: 2496324765748941946
+    second: 4 - IxPmEhF_44
+  - first:
+      213: -3060173691677095603
+    second: 4 - IxPmEhF_45
+  - first:
+      213: -4386042522222167011
+    second: 4 - IxPmEhF_46
+  - first:
+      213: 6685611430022977917
+    second: 4 - IxPmEhF_47
+  - first:
+      213: 2946047761564870255
+    second: 4 - IxPmEhF_48
+  - first:
+      213: 3071656000441926320
+    second: 4 - IxPmEhF_49
+  - first:
+      213: -1816968945649031093
+    second: 4 - IxPmEhF_50
+  - first:
+      213: -6337736983395812301
+    second: 4 - IxPmEhF_51
+  - first:
+      213: 4325976221184054220
+    second: 4 - IxPmEhF_52
+  - first:
+      213: -6071945448983827412
+    second: 4 - IxPmEhF_53
+  - first:
+      213: 2109070796586225923
+    second: pikachu_idle_1
+  - first:
+      213: -3683105889958755780
+    second: pikachu_idle_2
+  - first:
+      213: -5053702322236066318
+    second: pikachu_idle_3
+  - first:
+      213: 2330369987787973596
+    second: 4 - IxPmEhF_57
+  - first:
+      213: -9053558416640106890
+    second: 4 - IxPmEhF_58
+  - first:
+      213: 2262787264268683145
+    second: 4 - IxPmEhF_59
+  - first:
+      213: 3936149672656194862
+    second: 4 - IxPmEhF_60
+  - first:
+      213: 5165157704768312908
+    second: 4 - IxPmEhF_61
+  - first:
+      213: -6299312364886599418
+    second: 4 - IxPmEhF_62
+  - first:
+      213: 7388446934365730054
+    second: 4 - IxPmEhF_63
+  - first:
+      213: 159011292171713920
+    second: 4 - IxPmEhF_64
+  - first:
+      213: -7019348436563433504
+    second: 4 - IxPmEhF_65
+  - first:
+      213: -3877699209149770299
+    second: 4 - IxPmEhF_66
+  - first:
+      213: -208656723316698415
+    second: 4 - IxPmEhF_67
+  - first:
+      213: -1994667652185861103
+    second: 4 - IxPmEhF_68
+  - first:
+      213: -3672513170189814790
+    second: 4 - IxPmEhF_69
+  - first:
+      213: -6833072833703736999
+    second: 4 - IxPmEhF_70
+  - first:
+      213: 8491700093666877258
+    second: 4 - IxPmEhF_71
+  - first:
+      213: -2631915290587627925
+    second: 4 - IxPmEhF_72
+  - first:
+      213: 4822441668075348831
+    second: 4 - IxPmEhF_73
+  - first:
+      213: -1333915547402249920
+    second: 4 - IxPmEhF_74
+  - first:
+      213: 6424237775752119630
+    second: 4 - IxPmEhF_75
+  - first:
+      213: 8347041634252291774
+    second: 4 - IxPmEhF_76
+  - first:
+      213: 6911430920295972439
+    second: 4 - IxPmEhF_77
+  - first:
+      213: -9025009950235263094
+    second: pikachu_run_1
+  - first:
+      213: 8189387316943552365
+    second: pikachu_run_2
+  - first:
+      213: 4267286666605874952
+    second: pikachu_run_3
+  - first:
+      213: 4892343106319538683
+    second: 4 - IxPmEhF_81
+  - first:
+      213: -9200069335564163722
+    second: 4 - IxPmEhF_82
+  - first:
+      213: 5962595667529779945
+    second: 4 - IxPmEhF_83
+  - first:
+      213: 4610355597299286349
+    second: 4 - IxPmEhF_84
+  - first:
+      213: 5517691867951736197
+    second: 4 - IxPmEhF_85
+  - first:
+      213: -5630445493045788100
+    second: 4 - IxPmEhF_86
+  - first:
+      213: 8140480269589688247
+    second: 4 - IxPmEhF_87
+  - first:
+      213: -5369697559895359101
+    second: 4 - IxPmEhF_88
+  - first:
+      213: 3137180644861055536
+    second: 4 - IxPmEhF_89
+  - first:
+      213: 4429688361626196374
+    second: 4 - IxPmEhF_90
+  - first:
+      213: 1515989351652189996
+    second: 4 - IxPmEhF_91
+  - first:
+      213: -5903988275812155976
+    second: 4 - IxPmEhF_92
+  - first:
+      213: -6700004624855021671
+    second: 4 - IxPmEhF_93
+  - first:
+      213: 5975553203857085635
+    second: 4 - IxPmEhF_94
+  - first:
+      213: -4333284554817901279
+    second: 4 - IxPmEhF_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 230
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884d5760309336f70800000000000000
+      internalID: 9179243150667273352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 230
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d587c779d18bd4f0800000000000000
+      internalID: -802905337538050599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 230
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1a95b60008551d0800000000000000
+      internalID: -3362640807472815625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 231
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b7c9e17aa4ddf90800000000000000
+      internalID: -6927298570192389321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 231
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b641f8e85e95bd0800000000000000
+      internalID: -2640827306027488464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 231
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34807125beecef240800000000000000
+      internalID: 4827523360677627971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 232
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c77f2c271f2dea0800000000000000
+      internalID: -5849347490801288098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 232
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc39bea873814bbe0800000000000000
+      internalID: -1462517352155606068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_8
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 232
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db09a11b855d68690800000000000000
+      internalID: -7600152744235986755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 233
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c1812bcfc373cc0800000000000000
+      internalID: -3731446710235816885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_10
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 233
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3656e52d6c027840800000000000000
+      internalID: 5220248581002647102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_11
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 233
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f920c285d8d140f90800000000000000
+      internalID: -6988428228865293665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 200
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7503735e93319050800000000000000
+      internalID: 5805478149755176314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_13
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 201
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa89f362468001800800000000000000
+      internalID: 580973578162247855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_14
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 200
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad212f1ab68bb5e0800000000000000
+      internalID: -1892771084434854490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 199
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2eac48794e7a980800000000000000
+      internalID: -8527596029983661340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_16
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 199
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fac16f7c1d523dd0800000000000000
+      internalID: -2507839665514362123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_17
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 199
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9175ea882f3b56090800000000000000
+      internalID: -8041823705343568103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_18
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9e9e8e860166b00800000000000000
+      internalID: 821362024811981243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_19
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 200
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1012cc9d7bb30860800000000000000
+      internalID: 7495040353049907228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_20
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 200
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c9040fb8e6d05f0800000000000000
+      internalID: -788852812409693118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_21
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 201
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8081676377249fb90800000000000000
+      internalID: -7207656648847517688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_22
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 201
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd24bd07c9d9db740800000000000000
+      internalID: 5169461242525074140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_23
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 201
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd1ae20921e1f7d0800000000000000
+      internalID: -2886278319908971053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 168
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7afc0f1eda723ac0800000000000000
+      internalID: -3876901234790303106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_25
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 169
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6ce376f53319400800000000000000
+      internalID: 329100732621833966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_26
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 168
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb4e832e54de5660800000000000000
+      internalID: 7376566740467993599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_27
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 167
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bde21f89ab61160800000000000000
+      internalID: 6995984237210819402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_28
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 167
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4adb9085c29f1ef50800000000000000
+      internalID: 6909077272213962148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_29
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 167
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ce20ddd9001f600800000000000000
+      internalID: 500181711632657550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_30
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 168
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3616c972889ad9a0800000000000000
+      internalID: -6207481450220612033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_31
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 168
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12035e56c75ad8020800000000000000
+      internalID: 2345712934633943073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_32
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 168
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f782650f16e5e9a90800000000000000
+      internalID: -7305297770811348865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_33
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 169
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d974a3a2cce599260800000000000000
+      internalID: 7104814118128469917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_34
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 169
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ee39b0dbc773fa0800000000000000
+      internalID: -5821046841968169362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_35
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 169
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43028d4990f0f3ac0800000000000000
+      internalID: -3873360620689022924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_36
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 137
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c16cd8140fa9e870800000000000000
+      internalID: 8712687386256761280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_37
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 136
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70eb6383f84c2830800000000000000
+      internalID: 4047690375818371197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_38
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 137
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591d5b4cb5f506280800000000000000
+      internalID: -9052130403267784299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_39
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 135
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e15611dfc357de0800000000000000
+      internalID: -1336094656829252038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_40
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 137
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcad26c1bd0492290800000000000000
+      internalID: -7914723560308679985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_41
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 135
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21d03528c6718e80800000000000000
+      internalID: -8178124846338617041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 137
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf702ff03457cf0a0800000000000000
+      internalID: -6846468402619217925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_43
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 137
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bb5e146a7a0ff30800000000000000
+      internalID: 4607366751312001812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_44
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 137
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74d97af52ab4a220800000000000000
+      internalID: 2496324765748941946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_45
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 136
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49479cad341885d0800000000000000
+      internalID: -3060173691677095603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_46
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 136
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c70357095a123c0800000000000000
+      internalID: -4386042522222167011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_47
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 136
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d799fc87c2018cc50800000000000000
+      internalID: 6685611430022977917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_48
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 101
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66a86f84d672e820800000000000000
+      internalID: 2946047761564870255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_49
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 101
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2c98aabd6b0aa20800000000000000
+      internalID: 3071656000441926320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_50
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 101
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b486ca2ee54d8c6e0800000000000000
+      internalID: -1816968945649031093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_51
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 101
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c36d8dac5db08a0800000000000000
+      internalID: -6337736983395812301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_52
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 101
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc356720474f80c30800000000000000
+      internalID: 4325976221184054220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_53
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 101
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ce4c1e8cd1cbba0800000000000000
+      internalID: -6071945448983827412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikachu_idle_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 102
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3011ca417bce44d10800000000000000
+      internalID: 2109070796586225923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikachu_idle_2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 102
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c320cdef4baf2ecc0800000000000000
+      internalID: -3683105889958755780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikachu_idle_3
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 102
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f57d8a7384add9b0800000000000000
+      internalID: -5053702322236066318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_57
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 102
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd365553823275020800000000000000
+      internalID: 2330369987787973596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_58
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 102
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e1bee769c4b5280800000000000000
+      internalID: -9053558416640106890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_59
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 102
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98743013709076f10800000000000000
+      internalID: 2262787264268683145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 73
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d417dc54300a630800000000000000
+      internalID: 3936149672656194862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_61
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 73
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c465699f0935ea740800000000000000
+      internalID: 5165157704768312908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_62
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 73
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60955b187c85498a0800000000000000
+      internalID: -6299312364886599418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_63
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 69
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60571b45759098660800000000000000
+      internalID: 7388446934365730054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_64
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 69
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dbb218debe43200800000000000000
+      internalID: 159011292171713920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_65
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 69
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e761fb79c3469e90800000000000000
+      internalID: -7019348436563433504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_66
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 71
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c590dc3d15af2ac0800000000000000
+      internalID: -3877699209149770299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_67
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 71
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d216bec0d3ba1df0800000000000000
+      internalID: -208656723316698415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_68
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 71
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114df7aa6548154e0800000000000000
+      internalID: -1994667652185861103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_69
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 71
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af374e1cabc980dc0800000000000000
+      internalID: -3672513170189814790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_70
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 71
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95987bef57c0c21a0800000000000000
+      internalID: -6833072833703736999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_71
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 71
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f5a268e3498d570800000000000000
+      internalID: 8491700093666877258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_72
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 41
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6efa99dcfe897bd0800000000000000
+      internalID: -2631915290587627925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_73
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 41
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f536caf8521cce240800000000000000
+      internalID: 4822441668075348831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_74
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 41
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049d7b480eafc7de0800000000000000
+      internalID: -1333915547402249920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_75
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 37
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45c950583a772950800000000000000
+      internalID: 6424237775752119630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_76
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 37
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebef00f4426a6d370800000000000000
+      internalID: 8347041634252291774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_77
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 37
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e74edbdc55aef50800000000000000
+      internalID: 6911430920295972439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikachu_run_1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 39
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f7cdd4449b0c280800000000000000
+      internalID: -9025009950235263094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikachu_run_2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 40
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f7282206c86a170800000000000000
+      internalID: 8189387316943552365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikachu_run_3
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 39
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fcdcd3d92783b30800000000000000
+      internalID: 4267286666605874952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_81
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 39
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9d18b622815e340800000000000000
+      internalID: 4892343106319538683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_82
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 39
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675ebb0fea9c25080800000000000000
+      internalID: -9200069335564163722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_83
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 39
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea456e1b256fb250800000000000000
+      internalID: 5962595667529779945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_84
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4102413df54bff30800000000000000
+      internalID: 4610355597299286349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_85
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 9
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58523591587c29c40800000000000000
+      internalID: 5517691867951736197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_86
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 9
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c328ecbc7a3acd1b0800000000000000
+      internalID: -5630445493045788100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_87
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 5
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf28f1dcabc8f070800000000000000
+      internalID: 8140480269589688247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_88
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 5
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381c727e4800b75b0800000000000000
+      internalID: -5369697559895359101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_89
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 6
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0329c2dcc21898b20800000000000000
+      internalID: 3137180644861055536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_90
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 5
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699596c681a697d30800000000000000
+      internalID: 4429688361626196374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_91
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 5
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27e0848840e90510800000000000000
+      internalID: 1515989351652189996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_92
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 5
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd352e91f1d01ea0800000000000000
+      internalID: -5903988275812155976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_93
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 7
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997ca06ba4dc403a0800000000000000
+      internalID: -6700004624855021671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_94
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 7
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c45954aafd6de250800000000000000
+      internalID: 5975553203857085635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 - IxPmEhF_95
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 7
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d6467f7a41dd3c0800000000000000
+      internalID: -4333284554817901279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      4 - IxPmEhF_44: 2496324765748941946
+      pikachu_idle_2: -3683105889958755780
+      4 - IxPmEhF_30: -6207481450220612033
+      4 - IxPmEhF_61: 5165157704768312908
+      4 - IxPmEhF_16: -2507839665514362123
+      4 - IxPmEhF_84: 4610355597299286349
+      4 - IxPmEhF_6: -5849347490801288098
+      4 - IxPmEhF_57: 2330369987787973596
+      4 - IxPmEhF_15: -8527596029983661340
+      4 - IxPmEhF_11: -6988428228865293665
+      4 - IxPmEhF_32: -7305297770811348865
+      4 - IxPmEhF_38: -9052130403267784299
+      4 - IxPmEhF_74: -1333915547402249920
+      4 - IxPmEhF_12: 5805478149755176314
+      4 - IxPmEhF_13: 580973578162247855
+      4 - IxPmEhF_21: -7207656648847517688
+      4 - IxPmEhF_31: 2345712934633943073
+      4 - IxPmEhF_36: 8712687386256761280
+      4 - IxPmEhF_90: 4429688361626196374
+      4 - IxPmEhF_75: 6424237775752119630
+      4 - IxPmEhF_93: -6700004624855021671
+      4 - IxPmEhF_62: -6299312364886599418
+      4 - IxPmEhF_33: 7104814118128469917
+      4 - IxPmEhF_22: 5169461242525074140
+      4 - IxPmEhF_47: 6685611430022977917
+      4 - IxPmEhF_42: -6846468402619217925
+      4 - IxPmEhF_2: -3362640807472815625
+      pikachu_run_2: 8189387316943552365
+      4 - IxPmEhF_18: 821362024811981243
+      4 - IxPmEhF_68: -1994667652185861103
+      4 - IxPmEhF_49: 3071656000441926320
+      4 - IxPmEhF_45: -3060173691677095603
+      4 - IxPmEhF_95: -4333284554817901279
+      4 - IxPmEhF_86: -5630445493045788100
+      4 - IxPmEhF_67: -208656723316698415
+      4 - IxPmEhF_5: 4827523360677627971
+      4 - IxPmEhF_73: 4822441668075348831
+      4 - IxPmEhF_82: -9200069335564163722
+      4 - IxPmEhF_59: 2262787264268683145
+      4 - IxPmEhF_35: -3873360620689022924
+      4 - IxPmEhF_48: 2946047761564870255
+      4 - IxPmEhF_46: -4386042522222167011
+      4 - IxPmEhF_69: -3672513170189814790
+      4 - IxPmEhF_51: -6337736983395812301
+      4 - IxPmEhF_26: 7376566740467993599
+      4 - IxPmEhF_1: -802905337538050599
+      4 - IxPmEhF_24: -3876901234790303106
+      4 - IxPmEhF_25: 329100732621833966
+      4 - IxPmEhF_58: -9053558416640106890
+      4 - IxPmEhF_81: 4892343106319538683
+      4 - IxPmEhF_4: -2640827306027488464
+      4 - IxPmEhF_83: 5962595667529779945
+      4 - IxPmEhF_14: -1892771084434854490
+      4 - IxPmEhF_87: 8140480269589688247
+      4 - IxPmEhF_29: 500181711632657550
+      4 - IxPmEhF_53: -6071945448983827412
+      4 - IxPmEhF_28: 6909077272213962148
+      4 - IxPmEhF_71: 8491700093666877258
+      4 - IxPmEhF_40: -7914723560308679985
+      4 - IxPmEhF_70: -6833072833703736999
+      4 - IxPmEhF_43: 4607366751312001812
+      4 - IxPmEhF_88: -5369697559895359101
+      4 - IxPmEhF_72: -2631915290587627925
+      4 - IxPmEhF_91: 1515989351652189996
+      4 - IxPmEhF_50: -1816968945649031093
+      4 - IxPmEhF_94: 5975553203857085635
+      4 - IxPmEhF_77: 6911430920295972439
+      4 - IxPmEhF_17: -8041823705343568103
+      4 - IxPmEhF_37: 4047690375818371197
+      4 - IxPmEhF_76: 8347041634252291774
+      4 - IxPmEhF_39: -1336094656829252038
+      4 - IxPmEhF_63: 7388446934365730054
+      4 - IxPmEhF_89: 3137180644861055536
+      pikachu_run_3: 4267286666605874952
+      4 - IxPmEhF_41: -8178124846338617041
+      4 - IxPmEhF_27: 6995984237210819402
+      4 - IxPmEhF_3: -6927298570192389321
+      4 - IxPmEhF_52: 4325976221184054220
+      4 - IxPmEhF_92: -5903988275812155976
+      4 - IxPmEhF_9: -3731446710235816885
+      pikachu_idle_3: -5053702322236066318
+      4 - IxPmEhF_8: -7600152744235986755
+      4 - IxPmEhF_66: -3877699209149770299
+      4 - IxPmEhF_20: -788852812409693118
+      4 - IxPmEhF_85: 5517691867951736197
+      4 - IxPmEhF_34: -5821046841968169362
+      4 - IxPmEhF_64: 159011292171713920
+      4 - IxPmEhF_23: -2886278319908971053
+      pikachu_idle_1: 2109070796586225923
+      4 - IxPmEhF_65: -7019348436563433504
+      4 - IxPmEhF_60: 3936149672656194862
+      pikachu_run_1: -9025009950235263094
+      4 - IxPmEhF_19: 7495040353049907228
+      4 - IxPmEhF_0: 9179243150667273352
+      4 - IxPmEhF_7: -1462517352155606068
+      4 - IxPmEhF_10: 5220248581002647102
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
